@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AutoClicker
+Comment=Aplicație de autoclicker pentru automatizarea click-urilor
+Exec=python3 /workspace/autoclicker.py
+Icon=input-mouse
+Terminal=false
+Categories=Utility;
+StartupNotify=true
